@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+
+Host: https://buildence.uz
+Sitemap: https://buildence.uz/sitemap.xml
